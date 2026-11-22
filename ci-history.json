@@ -1,0 +1,9 @@
+{"updated":"2026-11-22T11:46:04Z",
+"ci":[],
+"sim":[
+{"id":45010930794,"at":"2026-11-22T10:08:10Z","sha":"4ac39c8fd","title":"Only the webOS platform builds the television package, the storage helper and the webOS C files (W8b)","pr":1510,"conclusion":"success","attempt":1,"jobs":{"Linux simulator build + launch":420,"Windows launcher syntax":19,"macOS simulator build + launch":543,"macOS tests against bundled FFmpeg and ASS":475}}
+],
+"nightly":[],
+"cancelled":{},
+"daily":[],
+"flaky":[]}
