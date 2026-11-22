@@ -1,5 +1,7 @@
-{"updated":"2026-11-22T11:46:04Z",
-"ci":[],
+{"updated":"2026-11-22T12:04:45Z",
+"ci":[
+{"id":45010930759,"at":"2026-11-22T10:08:10Z","sha":"4ac39c8fd","title":"Only the webOS platform builds the television package, the storage helper and the webOS C files (W8b)","pr":1510,"conclusion":"success","attempt":1,"jobs":{"which gates apply":6,"host lint + type-checks":196,"host harness tests":283,"host unit tests (default features)":431,"armv7 cross-build and artifact assertions":454,"host python/shell/C gates":235,"host unit tests (hostsim)":312,"cross-build (armv7) + artifact assertions":2,"host checks (NOT a device gate)":5}}
+],
 "sim":[
 {"id":45010930794,"at":"2026-11-22T10:08:10Z","sha":"4ac39c8fd","title":"Only the webOS platform builds the television package, the storage helper and the webOS C files (W8b)","pr":1510,"conclusion":"success","attempt":1,"jobs":{"Linux simulator build + launch":420,"Windows launcher syntax":19,"macOS simulator build + launch":543,"macOS tests against bundled FFmpeg and ASS":475}}
 ],
